@@ -8,6 +8,7 @@
     border-radius: 8px;
     height: 30px;
     width: 150px;
+    background-color: rgb(216, 227, 237);
 }
 .button2{
     background-color:blue ;
@@ -23,7 +24,7 @@
     gap: 20px;
 }
 .navbar{
-    background-color: rgb(232, 49, 49);
+
     gap: 400px;
     display: flex;
      width: 100%; 
@@ -154,16 +155,16 @@
 }
 
 .card1{
-    height: 700px;
+    height: 500px;
 }
 .card2{
-    height: 700px;
+    height: 500px;
 }
 .card3{
-    height: 700px;
+    height: 500px;
 }
 .card4{
-    height: 700px;
+    height: 500px;
 }
 .infoCard{
     display: flex;
@@ -218,4 +219,44 @@
     gap: 20px;
     background-color: rgb(244, 235, 235);
     border-radius: 12px;
+}
+.div33{
+    width: 100%;
+    border-radius: 20px;
+
+}
+.word{
+    margin-left: 20px;
+   margin-top:-400px;  
+    width:400px ;
+    height: 300px;
+    text-align: left;
+    background-color: rgb(239, 238, 235);
+    border-radius: 10px;
+
+}
+
+.new{
+    padding-left: 15px;
+}
+.button3{
+    margin-left: 10px;
+    height: 40px;
+    width: 200px;
+    border-color: aliceblue;
+    border-radius: 15px;
+    background-color: rgb(36, 36, 213);
+
+}
+
+.div44{
+    background-image: url(https://forever.travel-assets.com/flex/flexmanager/mediaasset/732141-0_2-VRBO_HOSTS_LA_SAUNA_NEBELING_0101.jpg?impolicy=fcrop&w=1400&h=600&q=mediumHigh);
+    padding-top: 500px;
+}
+
+.text{
+    font-size: x-large;
+}
+h6{
+    font-size:large;
 }
