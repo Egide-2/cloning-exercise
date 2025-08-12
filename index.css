@@ -3,13 +3,28 @@
     width: 100%;
     height: 100%;
 }
+.button1{
+    margin-top: 10px;
+    border-radius: 8px;
+    height: 30px;
+    width: 150px;
+}
+.button2{
+    background-color:blue ;
+    margin-top: 10px;
+     margin-left: 1100px;
+    border-radius: 8px;
+    height: 30px;
+    width: 100px;
+}
+
 .rightnav{
     display: flex;
     gap: 20px;
 }
 .navbar{
     background-color: rgb(232, 49, 49);
-    gap: 430px;
+    gap: 400px;
     display: flex;
      width: 100%; 
 }
@@ -22,34 +37,48 @@
     height: 50px;
     border-radius: 10px;
 } 
+
 .div1{
-    background-color: black;
-    height: 200px;
-    width: 250px;
+    background-color:rgb(70, 70, 203); ;
+    height: 150px;
+    width: 400px;
     border-radius: 20px;
     gap: 15px;
 }
+
+.photo111{
+    margin-left: 200px;
+  height: 150px;
+    width: 200px;
+    border-radius: 12px;  
+}
+.photo222{
+    margin-left: 200px;
+  height: 150px;
+    width: 200px;
+    border-radius: 12px;  
+}
+.photo333{
+    margin-left: 200px;
+  height: 150px;
+    width: 200px;
+    border-radius: 12px;  
+}
 .div2{
-    background-color: black;
-    height: 200px;
-    width: 250px;
+    background-color:rgb(70, 70, 203);
+    height: 150px;
+    width: 400px;
     border-radius: 20px;
      gap: 15px;
 }
 .div3{
-    background-color: black;
-    height: 200px;
-    width: 300px;
+    background-color:rgb(70, 70, 203);
+    height: 150px;
+    width: 400px;
     border-radius: 20px;
      gap: 15px;
 }
-.div4{
-    background-color: black;
-    height: 200px;
-    width: 300px;
-    border-radius: 20px;
-    gap: 15px;
-}
+
 .someddivs{
     display: flex;
      gap: 15px;
@@ -97,4 +126,96 @@
     width: 100%;
     display: flex;
     gap: 10px;
+}
+.info-img1{
+
+     height: 250px;
+    width: 300px;
+    border-radius: 15px; 
+}
+
+.info-img2{
+
+     height: 250px;
+    width: 300px;
+    border-radius: 15px; 
+}
+.info-img3{
+
+     height: 250px;
+    width: 300px;
+    border-radius: 15px; 
+}
+.info-img4{
+
+     height: 250px;
+    width: 300px;
+    border-radius: 15px; 
+}
+
+.card1{
+    height: 700px;
+}
+.card2{
+    height: 700px;
+}
+.card3{
+    height: 700px;
+}
+.card4{
+    height: 700px;
+}
+.infoCard{
+    display: flex;
+}
+
+
+
+.gallaryimg1{
+    border-radius: 15px;
+  width: 600px; 
+  height: 400px; 
+}
+.gallaryimg2{
+    border-radius: 15px;
+  width: 600px; 
+  height: 400px; 
+}
+.gallarysection{
+    gap: 50px;
+
+    display: flex;
+}
+
+.gallary2img2{
+     height: 250px;
+    width: 300px;
+    border-radius: 15px; 
+}
+
+.gallary2{
+    display:flex;
+    gap: 10px;
+}
+
+.div11{
+    height: 250px;
+    width: 300px;
+    border-radius: 15px; 
+    font-style: bolder;
+    font-size: x-large;
+
+}
+.div22{
+    height: 300px;
+    width: 200px;
+    border-radius: 15px;
+}
+
+.bigdiv{
+    height: 330px;
+    display: flex;
+    gap: 20px;
+    background-color: rgb(244, 235, 235);
+    border-radius: 12px;
 }
